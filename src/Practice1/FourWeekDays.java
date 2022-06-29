@@ -1,4 +1,4 @@
-package MentorSessions;
+package Practice1;
 
 public class FourWeekDays {
     public static void main(String[] args) {

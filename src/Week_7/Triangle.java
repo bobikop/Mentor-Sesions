@@ -1,4 +1,4 @@
-package WeekSevenPractice;
+package Week_7;
 
 public class Triangle {
 

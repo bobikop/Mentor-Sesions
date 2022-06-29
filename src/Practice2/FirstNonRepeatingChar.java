@@ -1,10 +1,9 @@
-package MentorSessions;
+package Practice2;
 
-public class NonRepeatingChar {
-
+public class FirstNonRepeatingChar {
     public static void main(String[] args) {
-        String str1 = "bbddeeaffgi";
 
+        String str1 = "bbddeeaffgi";
         for (int i = 0; i < str1.length(); i++) {
             boolean unique = true;
             for (int j = 0; j < str1.length(); j++) {
@@ -20,13 +19,11 @@ public class NonRepeatingChar {
                 break;
             }
         }
+
     }
-
-
 }
 /*
-
 Question 1: Given a string, write a method to find the first non-repeating vowel(a,e, i,o,u) in it and return its index.
-If it doesn't exist, return -1. Assume that all the characters of the String are lowercase.
-(Do not use String class functions other than charAt())
- */
+        If it doesn't exist, return -1. Assume that all the characters of the String are lowercase.
+        (Do not use String class functions other than charAt())
+*/

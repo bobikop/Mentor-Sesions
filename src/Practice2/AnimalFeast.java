@@ -1,4 +1,4 @@
-package MentorSessions;
+package Practice2;
 
 public class AnimalFeast {
 

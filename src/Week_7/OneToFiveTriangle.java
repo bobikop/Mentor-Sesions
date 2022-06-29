@@ -1,4 +1,4 @@
-package WeekSevenPractice;
+package Week_7;
 
 public class OneToFiveTriangle {
     public static void main(String[] args) {

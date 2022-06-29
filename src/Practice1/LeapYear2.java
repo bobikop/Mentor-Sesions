@@ -1,4 +1,4 @@
-package MentorSessions;
+package Practice1;
 
 import java.util.Scanner;
 
