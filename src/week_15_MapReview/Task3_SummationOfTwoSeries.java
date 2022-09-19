@@ -1,7 +1,6 @@
-package weel_15_MapReview;
+package week_15_MapReview;
 
 import java.util.HashMap;
-import java.util.LinkedHashMap;
 import java.util.Map;
 
 public class Task3_SummationOfTwoSeries {

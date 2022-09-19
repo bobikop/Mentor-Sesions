@@ -1,4 +1,4 @@
-package weel_15_MapReview;
+package week_15_MapReview;
 
 import java.util.*;
 
