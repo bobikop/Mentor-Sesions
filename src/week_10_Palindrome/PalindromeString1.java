@@ -19,7 +19,7 @@ public class PalindromeString1 {
 
     public static void main(String[] args) {
 
-        System.out.println(isPalindrome1("ana"));
+        System.out.println(isPalindrome1("ana ana"));
 
     }
 }
