@@ -1,6 +1,4 @@
-package week_22_AlgorithamTasks.Task1;
-
-import java.lang.reflect.Array;
+package week_26_Algorithm.Task1;
 
 public class Main {
 

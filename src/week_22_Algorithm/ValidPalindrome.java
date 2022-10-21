@@ -1,6 +1,4 @@
-package week_22_AlgorithamTasks;
-
-import java.util.LinkedList;
+package week_22_Algorithm;
 
 public class ValidPalindrome {
 

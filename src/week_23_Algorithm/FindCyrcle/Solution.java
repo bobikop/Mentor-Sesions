@@ -1,4 +1,4 @@
-package week_23_AlgorithamTasks1.FindCyrcle;
+package week_23_Algorithm.FindCyrcle;
 
 import java.util.HashSet;
 

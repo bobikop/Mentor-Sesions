@@ -1,4 +1,4 @@
-package week_23_AlgorithamTasks1.FindCyrcle;
+package week_23_Algorithm.FindCyrcle;
 
 public class ListNode {
     int val;

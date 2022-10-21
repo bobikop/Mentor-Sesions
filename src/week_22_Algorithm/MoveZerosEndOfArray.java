@@ -1,4 +1,4 @@
-package week_22_AlgorithamTasks;
+package week_22_Algorithm;
 
 import java.util.Arrays;
 

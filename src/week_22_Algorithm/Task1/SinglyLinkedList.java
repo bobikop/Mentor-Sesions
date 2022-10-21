@@ -1,4 +1,4 @@
-package week_22_AlgorithamTasks.Task1;
+package week_22_Algorithm.Task1;
 
 public class SinglyLinkedList <T extends Number>{
      ListNode head;

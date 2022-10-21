@@ -1,4 +1,4 @@
-package week_23_AlgorithamTasks1;
+package week_23_Algorithm;
 
 public class StaircaseJumpVariations {
 

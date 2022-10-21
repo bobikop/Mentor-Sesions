@@ -1,6 +1,4 @@
-package week_23_AlgorithamTasks1.FindCyrcle;
-
-import java.util.Arrays;
+package week_23_Algorithm.FindCyrcle;
 
 public class Solution1 {
 

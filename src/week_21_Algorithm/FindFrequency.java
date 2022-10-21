@@ -1,4 +1,4 @@
-package week_21_AlgorithamTasks;
+package week_21_Algorithm;
 
 import java.util.Arrays;
 import java.util.HashMap;
