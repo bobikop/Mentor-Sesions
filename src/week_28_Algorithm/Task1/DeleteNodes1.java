@@ -38,7 +38,7 @@ public class DeleteNodes1 {
             int mCount = m;
             int nCount = n;
 
-            while(current != null && mCount !=0){
+            while(current != null && mCount != 0){
                 previous = current;
                 current = current.next;
                 mCount--;
