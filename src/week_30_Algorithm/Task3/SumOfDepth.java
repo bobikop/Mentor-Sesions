@@ -1,11 +1,11 @@
 package week_30_Algorithm.Task3;
 
-public class SumOfNodeDepths {
+public class SumOfDepth {
 
     public static class TNode {
-        int value;
-        TNode leftChild;
-        TNode rightChild;
+        public int value;
+        public TNode leftChild;
+        public TNode rightChild;
 
 
     }
